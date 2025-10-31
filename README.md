@@ -30,7 +30,7 @@
 <h3 align="center">🧠 Sobre a minha pessoa</h3>
 
 <p align="left">
-Sou formado em Administração, mas atualmente estou buscando oportunidades na área de programação. Já fiz cursos sobre lógica de programação, MySQL, PHP, Python e continuo me aperfeiçoando nessa área. Pelo que eu tenho estudado, eu gosto bastante de atuar no front-end, mas também posso atuar no back-end. Eu lembro que durante o curso de MySQL, eu gostei muito de analisar e fazer consultas em bancos de dados e tabelas usando o MySQL Workbench. apesar de nãp possuir certificação em Laravel, CSS e HTML, eu possuo conhecimentos sobre e consigo usar tranquilamente na hora de criar aplicações.
+Sou formado em Administração, mas atualmente estou buscando oportunidades na área de programação. Já fiz cursos sobre lógica de programação, MySQL, PHP, Python e continuo me aperfeiçoando nessa área. Pelo que eu tenho estudado, eu gosto bastante de atuar no front-end, mas também posso atuar no back-end. Eu lembro que durante o curso de MySQL, eu gostei muito de analisar e fazer consultas em bancos de dados e tabelas usando o MySQL Workbench. apesar de não possuir certificações em Laravel, CSS e HTML, eu possuo conhecimentos sobre e consigo usar com certa tranquilidade na hora de criar aplicações.
 </p>
 
 ---
